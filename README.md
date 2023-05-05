@@ -15,19 +15,7 @@ International students often experience cultural loneliness due to isolation fro
 
 ## Outcome Demo
 
-<div align="center">
-  <div style="display:flex;">
-    <div style="flex:30%;padding:5px;">
-        <img alt="Home Page" src="./home-page.gif" width="100%" />
-      <p>Home Page</p>
-    </div>
-    <div style="flex:30%;padding:5px;">
-        <img alt="Channel Page" src="./channel.gif" width="100%" /> 
-      <p>Channel Page</p>
-    </div>
-    <div style="flex:30%;padding:5px;">
-        <img alt="Add tags and auto recommend" src="./Add-tag-recommand.gif" width="100%" />
-      <p>Add tags and auto recommand</p>
-    </div>
-  </div>
-</div>
+
+<span style="display: inline-block;">Home Page</span> | <span style="display: inline-block;">Channel Page</span> | <span style="display: inline-block;">Add tag & Recommendation</span>
+:----- | :----- | :-----
+![Home Page](./home-page.gif) | ![Channel Page](./channel.gif) | ![Add tag & Recommendation](./Add-tag-recommand.gif)
